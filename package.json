@@ -1,0 +1,23 @@
+{
+  "name": "correcionexamen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/edwar95/correcionExamen.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edwar95/correcionExamen/issues"
+  },
+  "homepage": "https://github.com/edwar95/correcionExamen#readme",
+  "dependencies": {
+    "@types/node": "^10.12.12",
+    "inquirer": "^6.2.1"
+  }
+}
